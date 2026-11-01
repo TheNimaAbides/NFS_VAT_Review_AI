@@ -1,0 +1,15 @@
+{
+  "name": "مرور مالیات ارزش افزوده",
+  "short_name": "مرور VAT",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#1565c0",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
